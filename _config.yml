@@ -24,7 +24,7 @@ repository               : "jayray5/jayray5.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Name"
+  name             : "Rayane Jay Bencharef"
   pronouns         : # example: "she/her"  
   bio              : "New grad, M.Sc in Computer vision (ETS Montreal) - M.Eng in Computer science (INSA Partner Castres)"
   location         : "Montreal, QC, Canada"
@@ -52,7 +52,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "JayRay5"
-  huggingface      : "https://huggingface.co/JayRay5"
+  huggingface      : "JayRay5"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
