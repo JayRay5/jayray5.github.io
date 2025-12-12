@@ -14,4 +14,16 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<style>
+  /* Override the Font Conflict by forcing an SVG image */
+  .ai-huggingface:before {
+    content: "" !important;  /* Hides the missing font character */
+    display: inline-block;
+    width: 1.2em;
+    height: 1.2em;
+    /* Loads the official logo from Hugging Face GitHub */
+    background: url('https://raw.githubusercontent.com/huggingface/brand-assets/main/hf-logo.svg') no-repeat center center;
+    background-size: contain;
+    vertical-align: text-bottom;
+  }
+</style>
