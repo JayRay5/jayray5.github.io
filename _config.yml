@@ -23,14 +23,14 @@ repository               : "JayRay5/rayane_bencharef.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profil_photo.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Montréal, Canada"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "rayane.bencharef.1@ens.etsmtl.ca" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "JayRay5"
-  #huggingface      : "https://huggingface.co/JayRay5"
+  huggingface      : "https://huggingface.co/JayRay5"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
