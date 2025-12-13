@@ -2,7 +2,7 @@
 title: "DIVE-Doc: Downscaling foundational Image Visual Encoder into hierarchical architecture for DocVQA"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/dive_doc_paper
 excerpt: 'This paper is about optimizing Visual Encoder of end-to-end DocVQA architectures'
 date: 2025-10-20
 venue: 'ICCV 2025 (VisionDocs Workshop)'
