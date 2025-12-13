@@ -43,7 +43,7 @@
     {% elsif post.collection == 'publications' %}
       <p>Published in <i style="font-weight: bold;">{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% if post.specificity %}
-        <i style="font-weight: bold;">{{ post.specificity }}</i>
+        <br><i style="font-weight: italic; font-size:0.90em;">{{ post.specificity }}</i>
         {%endif %}
         {% if post.coauthors %}
       <br><i style="font-size:0.70em;">{{post.coauthors}}</i>
