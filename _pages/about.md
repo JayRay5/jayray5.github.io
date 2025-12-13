@@ -15,40 +15,42 @@ This is the front page of a website that is powered by the [Academic Pages templ
 News
 ======
 <table style="border: none; border-collapse: collapse; width: 100%;">
+<tr style="border: none;">
+    <td style="border: none; width: 120px; vertical-align: top; color: #666; font-weight: bold;">
+      12/2025
+    </td>
+    <td style="border: none; vertical-align: top;">
+    🏅 <strong>Named to ÉTS Table of Honor</strong> <br>
+    Graduated with <em>Excellent</em> mention. Received Jury Recommendation for the <strong>Best Master's Thesis Award</strong>.
+  </td>
+  </tr>
   <tr style="border: none;">
     <td style="border: none; width: 120px; vertical-align: top; color: #666; font-weight: bold;">
-      10/2025
+      11/2025
     </td>
     <td style="border: none; vertical-align: top;">
-      <i>Into the Rabbit Hull</i>: From Task-Relevant Concepts in DINO to Minkowski Geometry
-    </td>
-  </tr>
-  
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top; color: #666; font-weight: bold;">
-      10/2025
-    </td>
-    <td style="border: none; vertical-align: top;">
-      Talk at Explainable Computer Vision Workshop (ICCV)
+      🎓 Master's thesis defense
     </td>
   </tr>
 
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; color: #666; font-weight: bold;">
-      09/2025
+      10/2025
     </td>
     <td style="border: none; vertical-align: top;">
-      🎉 3 papers accepted at NeurIPS 2025 (MP-SAE, Spade, Visual Anagrams)
+     🏆 Best Paper Award at the VisionDocs workshop
     </td>
   </tr>
   
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; color: #666; font-weight: bold;">
-      09/2025
+      06/2025
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Le_Monde.svg/50px-Le_Monde.svg.png" style="height: 1em; vertical-align: middle;"> 
-      Interview for <strong>Le Monde</strong> on Interpretability
+      <td style="border: none; vertical-align: top;">
+    🎉 <strong>Paper Accepted at ICCV 2025 Workshops</strong> <br>
+    My paper <em>DIVE-Doc: Downscaling foundational Image Visual Encoder into hierarchical architecture for DocVQA</em> has been accepted at the VisionDocs workshop (Spotlight presentation).
+  </td>
     </td>
   </tr>
 </table>
