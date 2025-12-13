@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify; line-height: 1.5; margin-bottom: 30px; font-size: 0.95em;">
-    Hi 👋, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br><br>
+    Hi👋, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br><br>
     I conducted my master's thesis at the <strong style="color:rgb(6, 182, 0);">Synchro</strong><strong style="color: #0077b6;">media Lab</strong> under the supervision of Prof. Mohamed Cheriet. My research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning</strong>, with a specific focus on Document Understanding (DocVQA), where I worked on developing efficient, OCR-free architectures. <br><br>
     I am now open to new opportunities! My main interests include (but are not limited to) <strong>Visual Representation Learning</strong>, <strong>Model Optimization</strong>, and <strong>Explainability</strong>.
 </div>
