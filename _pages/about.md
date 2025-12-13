@@ -11,6 +11,48 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
+
+News
+======
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; width: 120px; vertical-align: top; color: #666; font-weight: bold;">
+      10/2025
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <i>Into the Rabbit Hull</i>: From Task-Relevant Concepts in DINO to Minkowski Geometry
+    </td>
+  </tr>
+  
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; color: #666; font-weight: bold;">
+      10/2025
+    </td>
+    <td style="border: none; vertical-align: top;">
+      Talk at Explainable Computer Vision Workshop (ICCV)
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; color: #666; font-weight: bold;">
+      09/2025
+    </td>
+    <td style="border: none; vertical-align: top;">
+      🎉 3 papers accepted at NeurIPS 2025 (MP-SAE, Spade, Visual Anagrams)
+    </td>
+  </tr>
+  
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; color: #666; font-weight: bold;">
+      09/2025
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Le_Monde.svg/50px-Le_Monde.svg.png" style="height: 1em; vertical-align: middle;"> 
+      Interview for <strong>Le Monde</strong> on Interpretability
+    </td>
+  </tr>
+</table>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
