@@ -21,7 +21,7 @@ redirect_from:
       12/2025
     </td>
     <td style="border: none; vertical-align: top;">
-    🏅 <strong>Named to ÉTS Table of Honor</strong> <br>
+    🏅 <strong>Named to ÉTS Honour List (Fall 2025) </strong> <br>
     Graduated with <em>Excellent</em> mention. Received Jury Recommendation for the Board of Director's Master's with Thesis Excellence Awards.
     </td>
   </tr>
