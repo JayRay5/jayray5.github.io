@@ -58,15 +58,15 @@ redirect_from:
 
 ## Selected Experiences
 ### **Graduate Researcher (Master's Thesis)**
-**Synchromedia Lab** | *Jan 2024 - Dec 2025* <br>
-OCR-free Document Visual Question Answering (DocVQA) under the supervision of Prof. Mohamed Cheriet.
+**Synchromedia Lab** | *Jan. 2024 - Nov. 2025* <br>
+📄OCR-free Document Visual Question Answering (DocVQA) under the supervision of Prof. Mohamed Cheriet.
 * **Developed DIVE-Doc:** A hierarchical end-to-end architecture reducing visual encoder parameters by **5x**, halving the VE latency. Reached a **2.10 ANLS gap** compared to larger teacher models (PaliGemma) via knowledge distillation.
 * **Studied Fourier Feature for positional encoding:** Integrate a spatially accurate positional module in the VE, improving performance from 82.67 to **83.46 ANLS**.
 * **Adaptation to multipage document:** Adapt a single page document model to process multipage **without adding parameters**, achieving competitive performance (71.73 ANLS).
 
 ### **Intern Data Scientist**
 **Atout Majeur Concept** | *June 2023 - Aug. 2023* <br>
-Building a system to predict the Length of Stay (LOS) for incoming patients.
+🏥Building a system to predict the Length of Stay (LOS) for incoming patients.
 * **Feature Engineering:** Processed raw patient records and selected key clinical features to optimize model input.
 * **Model Training:** Built an SVM model that uses patient symptoms and characteristics to make preddiction, achieving **78%**
 accuracy with **limited data**.
@@ -74,7 +74,7 @@ accuracy with **limited data**.
 
 ### **Intern Data Scientist**
 **CHU Toulouse** | *Mai 2022 - Aug. 2022* <br>
-Developed a forecasting system to predict the volume of 911 emergency calls for the upcoming week based on historical data.
+🚑Developed a forecasting system to predict the volume of 911 emergency calls for the upcoming week based on historical data.
 * **Data Management:** Engineered and preprocessed emergency call datasets from SAMU31 (french 911).
 * **Data Analysis:** Performed exploratory data analysis (EDA) with geospatial and statistical visualizations, revealing why certain smaller cities experienced higher call volumes than larger metropolitan areas.
 * **Modeling:** Designed and compared statistical (ARIMA) and deep learning (LSTM) architectures for time-series forecasting, reaching **80% prediction accuracy**.
