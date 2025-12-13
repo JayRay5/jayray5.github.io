@@ -60,7 +60,7 @@ redirect_from:
 ### **Graduate Researcher (Master's Thesis)**
 **Synchromedia Lab** | *Jan. 2024 - Nov. 2025* <br>
 📄OCR-free Document Visual Question Answering (DocVQA) under the supervision of Prof. Mohamed Cheriet.
-* **Developed DIVE-Doc:** A hierarchical end-to-end architecture reducing visual encoder parameters by **5x**, halving the VE latency. Reached a **2.10 ANLS gap** compared to larger teacher models (PaliGemma) via knowledge distillation.
+* **Developed DIVE-Doc:** A hierarchical end-to-end architecture reducing visual encoder parameters by **5x**, halving the VE latency. Reached a **2.10 ANLS gap** compared to larger teacher models (Paligemma) via knowledge distillation.
 * **Studied Fourier Feature for positional encoding:** Integrate a spatially accurate positional module in the VE, improving performance from 82.67 to **83.46 ANLS**.
 * **Adaptation to multipage document:** Adapt a single page document model to process multipage **without adding parameters**, achieving competitive performance (71.73 ANLS).
 
