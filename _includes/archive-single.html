@@ -43,7 +43,7 @@
     {% elsif post.collection == 'publications' %}
       <p>Published in <i style="font-weight: bold;">{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% if post.github_link %}
-         <i style="font-weight: bold;"> | </i><a style="font-weight: bold; color:rgb(66, 66, 67);" href="{{post.github_link}}">Code Repository</a>
+         <i style="font-weight: bold;"> | </i><a style="font-weight: bold; color:rgb(66, 66, 67);  text-decoration: none;" href="{{post.github_link}}">Code Repository</a>
         {%endif %}
         {% if post.specificity %}
         <br><i style="font-weight: italic; font-size:0.90em;">{{ post.specificity }}</i>
