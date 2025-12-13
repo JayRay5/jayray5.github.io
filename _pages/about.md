@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; line-height: 1.0; font-size: 0.7em;">
+<div style="text-align: justify; line-height: 1.0;">
     Hi, my name is Rayane. I am a new graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br>
     During my master thesis, my research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning<strong>, with a specific focus on <strong>Document Understanding (DocVQA)</strong>. Under the supervision of Prof. Mohamed Cheriet at the <strong>Synchromedia Lab</strong>, I worked on developing efficient, OCR-free architectures for visual question answering. <br> 
     My current interests include <strong>Visual Representation Learning</strong>, <strong>Model Optimization</strong>, and <strong>Explainable</strong>.
