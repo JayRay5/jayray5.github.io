@@ -21,7 +21,7 @@ News
     </td>
     <td style="border: none; vertical-align: top;">
     🏅 <strong>Named to ÉTS Table of Honor</strong> <br>
-    Graduated with <em>Excellent</em> mention. Received Jury Recommendation for the <strong>Best Master's Thesis Award</strong>.
+    Graduated with Excellent mention. Received Jury Recommendation for the <strong>Best Master's Thesis Award</strong>.
   </td>
   </tr>
   <tr style="border: none;">
@@ -47,10 +47,8 @@ News
       06/2025
     </td>
     <td style="border: none; vertical-align: top;">
-      <td style="border: none; vertical-align: top;">
-    🎉 <strong>Paper Accepted at ICCV 2025 Workshops</strong> <br>
-    My paper <em>DIVE-Doc: Downscaling foundational Image Visual Encoder into hierarchical architecture for DocVQA</em> has been accepted at the VisionDocs workshop (Spotlight presentation).
-  </td>
+    🎉 <strong>Paper Accepted at ICCV 2025 Workshops (Spotlight presentation)</strong> <br>
+    My paper <em>DIVE-Doc: Downscaling foundational Image Visual Encoder into hierarchical architecture for DocVQA</em> has been accepted at the VisionDocs workshop.
     </td>
   </tr>
 </table>
