@@ -9,5 +9,6 @@ date: 2025-10-20
 specificity: 'Oral spotlight & Best paper award'
 venue: 'ICCV (VisionDocs Workshop)'
 paperurl: 'https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/papers/Bencharef_DIVE-Doc_Downscaling_foundational_Image_Visual_Encoder_into_hierarchical_architecture_for_ICCVW_2025_paper.pdf'
+github_link: 'https://github.com/JayRay5/DIVE-Doc'
 ---
 
