@@ -71,3 +71,10 @@ Building a system to predict the Length of Stay (LOS) for incoming patients.
 * **Model Training:** Built an SVM model that uses patient symptoms and characteristics to make preddiction, achieving **78%**
 accuracy with **limited data**.
 * **Automation:** Developed an end-to-end pipeline to process new patient data and generate real-time predictions.
+
+### **Intern Data Scientist**
+**CHU Toulouse** | *Mai 2022 - Aug. 2022* <br>
+Developed a forecasting system to predict the volume of 911 emergency calls for the upcoming week based on historical data.
+* **Data Management:** Engineered and preprocessed emergency call datasets from SAMU31 (french 911).
+* **Data Analysis:** Performed exploratory data analysis (EDA) with geospatial and statistical visualizations, revealing why certain smaller cities experienced higher call volumes than larger metropolitan areas.
+* **Modeling:** Designed and compared statistical (ARIMA) and deep learning (LSTM) architectures for time-series forecasting, reaching **80% prediction accuracy**.
