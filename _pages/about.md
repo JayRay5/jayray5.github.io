@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; line-height: 1.2; margin-bottom: 30px; font-size: 0.95em;">
-    Hi, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br>
-    My research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning</strong>, with a specific focus on <strong>Document Understanding (DocVQA)</strong>. Under the supervision of Prof. Mohamed Cheriet at the <strong>Synchromedia Lab</strong>, I worked on developing efficient, OCR-free architectures for visual question answering. <br>
-    My current interests include <strong>Visual Representation Learning</strong>, <strong>Model Optimization</strong>, and <strong>Explainability</strong>.
+<div style="text-align: justify; line-height: 1.5; margin-bottom: 30px; font-size: 0.95em;">
+    Hi 👋, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br><br>
+    I conducted my master's thesis at the <strong>Synchromedia Lab</strong> under the supervision of Prof. Mohamed Cheriet. My research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning</strong>, with a specific focus on <strong>Document Understanding (DocVQA)</strong>, where I worked on developing efficient, OCR-free architectures. <br><br>
+    I am now open to new opportunities! My main interests include (but are not limited to) <strong>Visual Representation Learning</strong>, <strong>Model Optimization</strong>, and <strong>Explainability</strong>.
 </div>
 
 ## Recent News
@@ -41,7 +41,7 @@ redirect_from:
       10/2025
     </td>
     <td style="border: none; vertical-align: top;">
-      🏆 <strong>Best Paper Award</strong> at the VisionDocs workshop (ICCV 2025 🌺)
+      🏆 <strong>Best Paper Award</strong> at the VisionDocs workshop (ICCV 2025🌺)
     </td>
   </tr>
   
