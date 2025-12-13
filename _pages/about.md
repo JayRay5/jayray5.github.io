@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; line-height: 1.8; font-size: 1.05em;">
+<div style="text-align: justify; line-height: 1.0; font-size: 0.7em;">
   <p>
     Hi, my name is Rayane. I am a new graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong>ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong>ISIS Castres</strong> (France).
   </p>
