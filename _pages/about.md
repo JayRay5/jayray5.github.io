@@ -67,7 +67,7 @@ OCR-free Document Visual Question Answering (DocVQA) under the supervision of Pr
 ### **Intern Data Scientist**
 **Atout Majeur Concept** | *June 2023 - Aug. 2023* <br>
 Building a system to predict the Length of Stay (LOS) for incoming patients.
-* **Data Engineering:** Engineered and analyzed patient data for feature selection.
+* **Feature Engineering:** Processed raw patient records and selected key clinical features to optimize model input.
 * **Model Training:** Built an SVM model that uses patient symptoms and characteristics to make preddiction, achieving **78%**
 accuracy with **limited data**.
 * **Automation:** Developed an end-to-end pipeline to process new patient data and generate real-time predictions.
