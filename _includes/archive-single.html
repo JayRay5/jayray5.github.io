@@ -46,7 +46,7 @@
         <br><i style="font-weight: italic; font-size:0.90em;">{{ post.specificity }}</i>
         {%endif %}
         {% if post.coauthors %}
-      <br><i style="font-size:0.70em;">{{post.coauthors}}</i>
+      <br><i style="font-size:0.90em;">{{post.coauthors}}</i>
     {% endif %} </p>
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
