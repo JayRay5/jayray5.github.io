@@ -59,7 +59,15 @@ redirect_from:
 ## Selected Experiences
 ### **Graduate Researcher (Master's Thesis)**
 **Synchromedia Lab** | *Jan 2024 - Dec 2025* <br>
-Focused on OCR-free Document Visual Question Answering (DocVQA) under the supervision of Prof. Mohamed Cheriet.
+OCR-free Document Visual Question Answering (DocVQA) under the supervision of Prof. Mohamed Cheriet.
 * **Developed DIVE-Doc:** A hierarchical end-to-end architecture reducing visual encoder parameters by **5x**, halving the VE latency. Reached a **2.10 ANLS gap** compared to larger teacher models (PaliGemma) via knowledge distillation.
 * **Studied Fourier Feature for positional encoding:** Integrate a spatially accurate positional module in the VE, improving performance from 82.67 to 83.46 ANLS.
 * **Adaptation to multipage document:** Adapt a single page document model to process multipage without adding parameters, achieving competitive performance (71.73 ANLS).
+
+### **Intern Data Scientist**
+**Atout Majeur Concept** | *June 2023 - Aug. 2023* <br>
+Building a system to predict the Length of Stay (LOS) for incoming patients.
+* **Data Engineering:** Engineered and analyzed patient data for feature selection.
+* **Model Training:** Built an SVM model that uses patient symptoms and characteristics to make preddiction, achieving 78%
+accuracy with limited data.
+* **Automation:** Developed a full pipeline to automatically process new patient data and generate predictions.
