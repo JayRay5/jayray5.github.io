@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <div style="text-align: justify; line-height: 1.5; margin-bottom: 30px; font-size: 0.95em;">
-    Hi👋, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br><br>
-    I conducted my master's thesis at the <strong style="color:rgb(6, 182, 0);">Synchro</strong><strong style="color: #0077b6;">media Lab</strong> under the supervision of Prof. Mohamed Cheriet. My research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning</strong>, with a specific focus on Document Understanding (DocVQA), where I worked on developing efficient and OCR-free architectures. <br><br>
+    Hi👋, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br>
+    I conducted my master's thesis at the <strong style="color:rgb(6, 182, 0);">Synchro</strong><strong style="color: #0077b6;">media Lab</strong> under the supervision of Prof. Mohamed Cheriet. My research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning</strong>, with a specific focus on Document Understanding (DocVQA), where I worked on developing efficient and OCR-free architectures. <br>
     I am now open to new opportunities! My main interests include (but are not limited to) <strong>Visual Representation Learning</strong>, <strong>Model Optimization</strong>, and <strong>Explainability</strong>.
 </div>
 
@@ -57,10 +57,9 @@ redirect_from:
 </table>
 
 ## Selected Experiences
-### **Graduate Research (Master Thesis)**
+### **Graduate Researcher (Master's Thesis)**
 **Synchromedia Lab** | *Jan 2024 - Dec 2025*
-
 Focused on OCR-free Document Visual Question Answering (DocVQA) under the supervision of Prof. Mohamed Cheriet.
 * **Developed DIVE-Doc:** A hierarchical end-to-end architecture reducing visual encoder parameters by **5x**, halving the VE latency. Reached a **2.10 ANLS gap** compared to larger teacher models (PaliGemma) via knowledge distillation.
-* **Studied Fourier Feature for positional encoding fo DU** Integrate a spatially accurate positional module in the VE, improving performance from 82.67 to 83.46 ANLS.
-* **Adaptation to multipage document** Adapt a single page document model to process multipage without adding parameters, achieving competitive performance (71.73 ANLS).
+* **Studied Fourier Feature for positional encoding:** Integrate a spatially accurate positional module in the VE, improving performance from 82.67 to 83.46 ANLS.
+* **Adaptation to multipage document:** Adapt a single page document model to process multipage without adding parameters, achieving competitive performance (71.73 ANLS).
