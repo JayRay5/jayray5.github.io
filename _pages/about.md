@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <div style="text-align: justify; line-height: 1.5; margin-bottom: 30px; font-size: 0.95em;">
-    Hi👋, my name is Rayane. I am currently splitting my time between part-time research at <a href="https://www.etsmtl.ca/en/home" target="_blank" style="text-decoration: none;"><strong style="color: #EF3E42;">ÉTS Montréal</strong></a> focusing on <strong>interpreting</strong> the layout representation of Vision-Language Models (<strong>VLMs</strong>), and developing <strong style="color:rgb(29, 107, 232);">C.O.R.A.</strong>, a robotics initiative to alleviate child anxiety.<br>
-    Before that, I studied at <a href="https://www.etsmtl.ca/en/home" target="_blank" style="text-decoration: none;"><strong style="color: #EF3E42;">ÉTS Montréal</strong></a> (<strong>M.Sc. in Artificial Intelligence</strong>) and at <a href="https://isis.univ-jfc.fr/en/lecole/who-are-we" target="_blank" style="text-decoration: none;"><strong style="color: #6f42c1;">ISIS Castres</strong></a> in France (<strong>M.Eng. in Software Engineering</strong>). <br>
+    Hi👋, my name is Rayane. I am currently splitting my time between part-time research at <a href="https://www.etsmtl.ca/en/home" target="_blank" style="text-decoration: none;"><strong style="color: #EF3E42;">ÉTS&nbsp;Montréal</strong></a> focusing on <strong>interpreting</strong> the layout representation of Vision-Language Models (<strong>VLMs</strong>), and developing <strong style="color:rgb(29, 107, 232);">C.O.R.A.</strong>, a robotics initiative to alleviate child anxiety.<br>
+    Before that, I studied at <a href="https://www.etsmtl.ca/en/home" target="_blank" style="text-decoration: none;"><strong style="color: #EF3E42;">ÉTS&nbsp;Montréal</strong></a> (<strong>M.Sc. in Artificial Intelligence</strong>) and at <a href="https://isis.univ-jfc.fr/en/lecole/who-are-we" target="_blank" style="text-decoration: none;"><strong style="color: #6f42c1;">ISIS Castres</strong></a> in France (<strong>M.Eng. in Software Engineering</strong>). <br>
     I conducted my master's thesis at the <a href="https://www.synchromedia.ca/" target="_blank" style="text-decoration: none;"><strong style="color:rgb(6, 182, 0);">Synchro</strong><strong style="color: #0077b6;">media</strong></a> lab under the supervision of Prof. Mohamed Cheriet. During my studies, I also interned as a Data Scientist in Medical Time Series at <strong style="color: #0081C6;">CHU Toulouse</strong> (France).
 </div>
 
@@ -29,7 +29,7 @@ redirect_from:
       03/2026
     </td>
     <td style="border: none; vertical-align: top;">
-    🏅 <strong>Named to ÉTS Dean’s Honour List (Automn 2025) </strong> <br>
+    🏅 <strong>Named to ÉTS Dean’s Honour List (Fall 2025) </strong> <br>
     Graduated with <em>Excellent</em> mention. 
     </td>
   </tr>
@@ -84,7 +84,7 @@ redirect_from:
 **Atout Majeur Concept** | *June 2023 - Aug. 2023* <br>
 🏥Building a system to predict the Length of Stay (LOS) for incoming patients.
 * **Feature Engineering:** Processed raw patient records and selected key clinical features to optimize model input.
-* **Model Training:** Built an SVM model that uses patient symptoms and characteristics to make preddictions, achieving **78%**
+* **Model Training:** Built an SVM model that uses patient symptoms and characteristics to make predictions, achieving **78%**
 accuracy with **limited data**.
 * **Automation:** Developed an end-to-end pipeline to process new patient data and generate real-time predictions.
 
