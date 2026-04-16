@@ -8,21 +8,37 @@ redirect_from:
 ---
 
 <div style="text-align: justify; line-height: 1.5; margin-bottom: 30px; font-size: 0.95em;">
-    Hi👋, my name is Rayane. I am a recent graduate holding an <strong>M.Sc. in Artificial Intelligence</strong> from <strong style="color: #EF3E42;">ÉTS Montréal</strong> and an <strong>M.Eng. in Software Engineering</strong> from <strong style="color: #6f42c1;">ISIS Castres</strong> (France). <br>
-    I conducted my master's thesis at the <strong style="color:rgb(6, 182, 0);">Synchro</strong><strong style="color: #0077b6;">media Lab</strong> under the supervision of Prof. Mohamed Cheriet. My research lies at the intersection of <strong>Computer Vision</strong> and <strong>Multimodal Learning</strong>, with a specific focus on Document Understanding (DocVQA), where I worked on developing efficient and OCR-free architectures. <br>
-    I am now open to new opportunities! My main interests include (but are not limited to) <strong>Visual Representation Learning</strong>, <strong>Model Optimization</strong>, and <strong>Explainability</strong>.
+    Hi👋, my name is Rayane. I am currently splitting my time between part-time research at <a href="https://www.etsmtl.ca/en/home" target="_blank" style="text-decoration: none;"><strong style="color: #EF3E42;">ÉTS Montréal</strong></a> focusing on <strong>interpreting</strong> the layout representation of Vision-Language Models (VLMs), and developing <strong>C.O.R.A.</strong>, a robotics initiative to alleviate child anxiety.<br>
+    Before that, I studied at <a href="https://www.etsmtl.ca/en/home" target="_blank" style="text-decoration: none;"><strong style="color: #EF3E42;">ÉTS Montréal</strong></a> (<strong>M.Sc. in Artificial Intelligence</strong>) and at <a href="https://isis.univ-jfc.fr/en/" target="_blank" style="text-decoration: none;"><strong style="color: #6f42c1;">ISIS Castres</strong></a> in France (<strong>M.Eng. in Software Engineering</strong>). <br>
+    I conducted my master's thesis at the <strong style="color:rgb(6, 182, 0);">Synchro</strong><strong style="color: #0077b6;">media Lab</strong> under the supervision of Prof. Mohamed Cheriet. During my studies, I also interned as a Data Scientist in Medical Time Series at <strong style="color: #0081C6;">CHU Toulouse</strong> (France).
 </div>
 
 ## Recent News
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
+<tr style="border: none;">
     <td style="border: none; width: 120px; vertical-align: top; color: #666; font-weight: bold;">
-      12/2025
+      03/2026
     </td>
     <td style="border: none; vertical-align: top;">
-    🏅 <strong>Named to ÉTS Honour List (Fall 2025) </strong> <br>
-    Graduated with <em>Excellent</em> mention. Received Jury Recommendation for the Board of Director's Master's with Thesis Excellence Awards.
+    📢 Launched Project <strong style="color:rgb(29, 107, 232);">C.O.R.A.</strong>, a pediatric robotics initiative to alleviate child anxiety.
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; width: 120px; vertical-align: top; color: #666; font-weight: bold;">
+      03/2026
+    </td>
+    <td style="border: none; vertical-align: top;">
+    🏅 <strong>Named to ÉTS Dean’s Honour List (Automn 2025) </strong> <br>
+    Graduated with <em>Excellent</em> mention. 
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; width: 120px; vertical-align: top; color: #666; font-weight: bold;">
+      02/2026
+    </td>
+    <td style="border: none; vertical-align: top;">
+    📢 Continuing my research on VLM interpretability at <strong style="color: #EF3E42;">ÉTS Montréal</strong>. 
     </td>
   </tr>
   
@@ -32,7 +48,7 @@ redirect_from:
     </td>
     <td style="border: none; vertical-align: top;">
       🎓 <strong>Master's Thesis Defense</strong> <br>
-      Successfully defended my thesis on OCR-free Document Understanding.
+      Successfully defended my thesis on OCR-free Document Understanding. Received Jury Recommendation for the Board of Director's Master's with Thesis Excellence Awards.
     </td>
   </tr>
 
